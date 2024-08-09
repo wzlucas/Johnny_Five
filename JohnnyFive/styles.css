@@ -1,0 +1,37 @@
+body {
+    background-color: #f0f0f0; /* Cor de fundo */
+    color: #444; /* Cor da fonte */
+    font-family: 'Roboto', sans-serif; /* Fonte Roboto */
+    line-height: 1.5; /* Espaçamento entre linhas */
+    width: 60%;
+    margin: 0 auto;
+    padding: 2% 0;
+}
+
+main {
+    background-color: #ffffff; /* Fundo branco para a parte principal */
+    padding: 20px;
+}
+
+h1, h2 {
+    color: rgb(140, 76, 8); /* Cor dos títulos */
+}
+
+section {
+    margin-top: 0px;
+    padding-bottom: 5px;
+    border-top: solid 1px gray; /* Borda superior em seções */
+}
+
+ul, ol {
+    margin-left: 20px;
+}
+
+a {
+    color: rgb(140, 76, 8); /* Cor dos links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
